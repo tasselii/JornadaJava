@@ -1,4 +1,4 @@
-package praticaHerança.animais;
+package herança.praticaHerança.animais;
 
 public class Main {
 

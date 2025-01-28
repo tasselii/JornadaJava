@@ -1,4 +1,4 @@
-package praticaHerança.veiculos;
+package herança.praticaHerança.veiculos;
 
 public class Veiculo {
 
